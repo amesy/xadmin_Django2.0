@@ -3,7 +3,7 @@
 
 参考文档：http://xadmin.readthedocs.io/en/docs-chinese/index.html 
 
-该仓库中代码我在 python3.6 & Django2.0 下测试没有问题。 
+该仓库中的代码在 python3.6 & Django2.0 下测试没有问题。 
 
 安装： 
 
@@ -13,4 +13,4 @@
 > python setup.py install 
 ```
 
-或下载ZIP包，然后使用 pip 进行安装。
+或下载 ZIP 包，然后使用 pip 进行安装。
