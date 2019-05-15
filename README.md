@@ -1,9 +1,9 @@
-# xadmin_Django2.0
-适用于Django2.0的一款后台管理系统框架。 
+# xadmin_Django2.x
+适用于Django2.x的一款后台管理系统框架。 
 
 参考文档：http://xadmin.readthedocs.io/en/docs-chinese/index.html 
 
-该仓库中的代码在 python3.6 & Django2.0 下测试没有问题。 
+该仓库中的代码在 python3.6 & Django2.x 下测试没有问题。 
 
 安装： 
 
